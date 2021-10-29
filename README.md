@@ -61,6 +61,7 @@ while(( key = watchService.take())!=null){
 ![Image of sequence diagram](https://raw.githubusercontent.com/hemanthl7/simplefileparser/main/SequenceDiagram.png)
 
 
+Please feel free to give comments.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
