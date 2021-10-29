@@ -1,5 +1,6 @@
 package com.hicx;
 
+import com.hicx.handler.FileHandler;
 import org.junit.After;
 import org.junit.Assert;
 import org.junit.Test;

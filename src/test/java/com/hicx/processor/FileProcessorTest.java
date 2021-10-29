@@ -1,6 +1,6 @@
 package com.hicx.processor;
 
-import com.hicx.FileHandler;
+import com.hicx.handler.FileHandler;
 import com.hicx.excepion.FileAccessException;
 import com.hicx.excepion.UnsupportedFileException;
 import org.junit.After;

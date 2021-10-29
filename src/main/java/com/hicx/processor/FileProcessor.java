@@ -1,7 +1,6 @@
 package com.hicx.processor;
 
-import com.hicx.FileHandler;
-import com.hicx.excepion.FileAccessException;
+import com.hicx.handler.FileHandler;
 import com.hicx.extractor.DotsCountExtractor;
 import com.hicx.extractor.Extractor;
 import com.hicx.extractor.MostUsedWordExtractor;
@@ -10,8 +9,6 @@ import com.hicx.reader.FileReader;
 import com.hicx.reader.FileReaderSupport;
 
 import java.io.File;
-import java.io.IOException;
-import java.nio.file.Files;
 import java.nio.file.Path;
 import java.util.Arrays;
 import java.util.List;
